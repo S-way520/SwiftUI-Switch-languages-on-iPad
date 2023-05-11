@@ -3,12 +3,13 @@ Switch the language through the button. (SwiftUI)
 
 # The first part:
 1. Click the switch button "En"
-![IMG_1110](https://github.com/S-way520/SwiftUI-Switch-languages-on-iPad/assets/95877651/5621e39a-362a-457b-b738-6ff6b09a8816)
+<img src = "![IMG_1110](https://github.com/S-way520/SwiftUI-Switch-languages-on-iPad/assets/95877651/5621e39a-362a-457b-b738-6ff6b09a8816)" width = "400" height = "400"
 2. Click the switch button "中"
-![IMG_1109](https://github.com/S-way520/SwiftUI-Switch-languages-on-iPad/assets/95877651/47e24823-0824-4106-9628-8c8f7e29e009)
+<img src = "![IMG_1109](https://github.com/S-way520/SwiftUI-Switch-languages-on-iPad/assets/95877651/47e24823-0824-4106-9628-8c8f7e29e009)" width = "400" height = "400"
 
 # The second part:
 1. Code file 1:
+'''swift
 import SwiftUI
 @main
 struct MyApp: App {
@@ -20,7 +21,9 @@ struct MyApp: App {
         }
     }
 }
+'''swift
 2. Code file 2:
+'''swift
 import SwiftUI
 struct ContentView: View {
     @Environment(\.locale) var locale
@@ -62,3 +65,4 @@ struct ContentView: View {
         }
     }
 }
+'''swift
