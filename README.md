@@ -6,12 +6,10 @@ Switch the language through the button. (SwiftUI)
 1. Click the switch button "En"
 
 ![IMG_1110](https://github.com/S-way520/SwiftUI-Switch-languages-on-iPad/assets/95877651/d80b821a-5f94-4615-8344-7828c8c58d04)
-
-<img src = "![IMG_1110](https://github.com/S-way520/SwiftUI-Switch-languages-on-iPad/assets/95877651/d80b821a-5f94-4615-8344-7828c8c58d04)" width = "400" height = "400">
      
 2. Click the switch button "中"
      
-<img src = "![IMG_1109](https://github.com/S-way520/SwiftUI-Switch-languages-on-iPad/assets/95877651/47e24823-0824-4106-9628-8c8f7e29e009)" width = "400" height = "400">
+![IMG_1109](https://github.com/S-way520/SwiftUI-Switch-languages-on-iPad/assets/95877651/47e24823-0824-4106-9628-8c8f7e29e009)
 
 # The second part:
 1. Code file 1:
